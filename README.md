@@ -1,7 +1,7 @@
 # Project Report: Image to Text Converter
 
 **Project Title:** Image to Text Converter  
-**Project Author:** Sanjeet Kumar  
+**Project Author:** sonu gupta
 **Date:** 30 March 2024
 
 ---
